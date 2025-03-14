@@ -189,9 +189,8 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     background: linear-gradient(to right, #0d4f43, #2b4f39, #449463, #2b4f39, #0d4f43);
--webkit-background-clip: text;
-color: transparent;
-
+    -webkit-background-clip: text;
+    color: transparent;
 }
 .invitation-info-section {
     position: relative;
