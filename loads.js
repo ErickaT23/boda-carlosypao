@@ -35,7 +35,7 @@ const guests = [
     { id: "34", name: "Dra. Aura Boj", passes: 1, adults: 1, kids: 0, gender: "female" },
     { id: "35", name: "Dra. Belen Hernandez", passes: 1, adults: 1, kids: 0, gender: "female" },
     { id: "36", name: "Dra. Carol Guillén", passes: 1, adults: 1, kids: 0, gender: "female" },
-    { id: "37", name: "Dra. Dulce Najarro", passes: 4, adults: 2, kids: 2, gender: "female" },
+    { id: "37", name: "Dra. Dulce Najarro", passes: 2, adults: 2, kids: 0, gender: "female" },
     { id: "38", name: "Dra. Edna Aguilar", passes: 1, adults: 1, kids: 0, gender: "female" },
     { id: "39", name: "Dra. Estefanía Barrera", passes: 1, adults: 1, kids: 0, gender: "female" },
     { id: "40", name: "Dra. Giezy García", passes: 1, adults: 1, kids: 0, gender: "female" },
