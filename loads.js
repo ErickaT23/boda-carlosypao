@@ -59,7 +59,7 @@ const guests = [
     { id: "58", name: "Esposos Barrios Morales", passes: 2, adults: 2, kids: 0, gender: "neutral" },
     { id: "59", name: "Esposos Díaz Obregon", passes: 2, adults: 2, kids: 0, gender: "neutral" },
     { id: "60", name: "Esposos Gill Barillas", passes: 2, adults: 2, kids: 0, gender: "neutral" },
-    { id: "61", name: "Esposos Heredia Valdez", passes: 2, adults: 1, kids: 1, gender: "neutral" },
+    { id: "61", name: "Esposos Heredia Valdez", passes: 2, adults: 2, kids: 0, gender: "neutral" },
     { id: "62", name: "Esposos Hernández Valdez", passes: 2, adults: 2, kids: 0, gender: "neutral" },
     { id: "63", name: "Esposos Hoffman Bautista", passes: 2, adults: 2, kids: 0, gender: "neutral" },
     { id: "64", name: "Esposos López Samayoa", passes: 2, adults: 2, kids: 0, gender: "neutral" },
