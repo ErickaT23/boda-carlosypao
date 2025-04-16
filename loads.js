@@ -75,7 +75,7 @@ const guests = [
     { id: "74", name: "Familia Camacho Hernández", passes: 2, adults: 2, kids: 0, gender: "neutral" },
     { id: "75", name: "Familia de León Alvarado", passes: 4, adults: 4, kids: 0, gender: "neutral" },
     { id: "76", name: "Familia de León Mérida", passes: 5, adults: 5, kids: 0, gender: "neutral" },
-    { id: "77", name: "Familia de León Ríos", passes: 4, adults: 2, kids: 1, gender: "neutral" },
+    { id: "77", name: "Familia de León Ríos", passes: 3, adults: 2, kids: 1, gender: "neutral" },
     { id: "78", name: "Familia Flores Reyes", passes: 4, adults: 4, kids: 0, gender: "neutral" },
     { id: "79", name: "Familia Flores Sánchez", passes: 3, adults: 3, kids: 0, gender: "neutral" },
     { id: "80", name: "Familia Girón Flores", passes: 3, adults: 2, kids: 1, gender: "neutral" },
