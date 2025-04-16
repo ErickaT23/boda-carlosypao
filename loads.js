@@ -160,7 +160,8 @@ const guests = [
     { id: "159", name: "Srita. Jeimi Lopez", passes: 1, adults: 1, kids: 0, gender: "female" },
     { id: "160", name: "Srita. Madeline Pineda", passes: 1, adults: 1, kids: 0, gender: "female" },
     { id: "161", name: "Srita. Maria de los Ángeles Saquic", passes: 1, adults: 1, kids: 0, gender: "female" },
-    { id: "162", name: "Srita. Marie Andree Juarez", passes: 1, adults: 1, kids: 0, gender: "female" }
+    { id: "162", name: "Srita. Marie Andree Juarez", passes: 1, adults: 1, kids: 0, gender: "female" },
+    { id: "163", name: "Srita. Yoselin Vasquez", passes: 1, adults: 1, kids: 0, gender: "female"},
 ];
 
 
