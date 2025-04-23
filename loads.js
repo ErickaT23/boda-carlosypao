@@ -162,6 +162,7 @@ const guests = [
     { id: "161", name: "Srita. Maria de los Ángeles Saquic", passes: 1, adults: 1, kids: 0, gender: "female" },
     { id: "162", name: "Srita. Marie Andree Juarez", passes: 1, adults: 1, kids: 0, gender: "female" },
     { id: "163", name: "Srita. Yoselin Vasquez", passes: 1, adults: 1, kids: 0, gender: "female"},
+    { id: "164", name: "Sr. Carlos Alvarado y Familia", passes: 2, adults: 2, kids: 0, gender:"neutral"},
 ];
 
 
